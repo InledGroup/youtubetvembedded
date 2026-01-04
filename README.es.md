@@ -64,4 +64,4 @@ También intenta capturar las pulsaciones de las teclas de salida/escape para de
 
 ---
 
-*Desarrollado por [Inled Group](https://github.com/inled).*
+*Desarrollado por [Inled Group](https://inled.es).*

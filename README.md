@@ -64,4 +64,4 @@ It also attempts to capture exit/escape key presses to return control to Kodi gr
 
 ---
 
-*Desarrollado por [Inled Group](https://github.com/inled).*
+*Developed by [Inled Group](https://inled.es).*
