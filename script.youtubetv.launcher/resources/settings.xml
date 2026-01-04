@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="General">
+    <setting id="browser_path" type="file" label="Browser Executable" default="/usr/bin/chromium-browser"/>
+    <setting id="user_agent" type="text" label="User Agent" default="Mozilla/5.0 (SMART-TV; Linux; Tizen 2.4.0) AppleWebkit/538.1 (KHTML, like Gecko) SamsungBrowser/1.0 TV Safari/538.1"/>
+    <setting id="custom_url" type="text" label="Custom URL" default="https://youtube.com/tv"/>
+    <setting id="enable_long_press" type="bool" label="Long Press 'Back' to Exit (3s)" default="true"/>
+    <setting id="enable_cec" type="bool" label="Enable CEC Remote Control Bridge" default="true"/>
+  </category>
+</settings>

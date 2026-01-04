@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.youtubetv.launcher" name="Youtube embedded" version="1.0.0" provider-name="Inled Group">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Enjoy Youtube in your device in TV mode</summary>
+    <summary lang="es_ES">Disfruta de Youtube en tu dispositivo en modo TV</summary>
+    <description lang="en_GB">Opens Youtube in TV mode using Chromium/Chrome in kiosk mode.</description>
+    <description lang="es_ES">Abre Youtube en modo TV emulando el user agent de una Smart TV usando Chromium/Chrome en modo kiosk</description>
+    <platform>linux</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
